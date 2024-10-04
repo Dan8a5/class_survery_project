@@ -5,6 +5,5 @@ CREATE TABLE topics(
 
 CREATE TABLE rankings(
     id serial PRIMARY KEY,
-    ranking_name text
-    
+    ranking_name text    
 )
